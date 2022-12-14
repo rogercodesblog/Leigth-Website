@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+
+  body {
+    background: url("/resources/images/bg.jpg") no-repeat center center fixed;
+    background-image: linear-gradient(45deg,rgba(2, 2, 19, 0.808),rgba(51, 11, 34, 0.589)), url("/resources/images/bg.jpg");
+    text-align: center;
+    color: #fff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Titillium Web', sans-serif;
+   }
+
+b{
+    font-weight: normal;
+}
+
+#twitch-embed iframe{
+  min-height: 80vh;
+  width: 100%;
+}
+
+.profile-picture{
+  width: 65%;
+  height: auto;
+ }
+
+ .sub-title{
+  color: #64dcdc;
+  letter-spacing: 0.5em;
+ 
+}
+
+@media only screen and (min-width: 576px) {
+  .profile-picture{
+    width: 45%;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .profile-picture{
+    width: 30%;
+    height: auto;
+  }
+}  
