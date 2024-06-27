@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Leigth_Website.props" />
+</Project>

@@ -1,0 +1,7 @@
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\Leigth_Website.exe
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\Leigth_Website.dll
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\Leigth_Website.deps.json
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\Leigth_Website.runtimeconfig.json
+C:\Projects\CodePublicGitHub\Leigth_Website\Leigth_Website\obj\Release\net6.0\PubTmp\Out\Leigth_Website.pdb

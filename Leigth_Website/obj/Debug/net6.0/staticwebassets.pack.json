@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\css\\animations.css",
+      "PackagePath": "staticwebassets\\resources\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\css\\styles.css",
+      "PackagePath": "staticwebassets\\resources\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\resources\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\images\\pp.png",
+      "PackagePath": "staticwebassets\\resources\\images\\pp.png"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\js\\scripts_email.js",
+      "PackagePath": "staticwebassets\\resources\\js\\scripts_email.js"
+    },
+    {
+      "Id": "C:\\Users\\manue\\OneDrive\\Escritorio\\Leigth Live Github\\Leigth-Website\\Leigth_Website\\wwwroot\\resources\\js\\scripts_twitch.js",
+      "PackagePath": "staticwebassets\\resources\\js\\scripts_twitch.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Leigth_Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Leigth_Website.props",
+      "PackagePath": "build\\Leigth_Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Leigth_Website.props",
+      "PackagePath": "buildMultiTargeting\\Leigth_Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Leigth_Website.props",
+      "PackagePath": "buildTransitive\\Leigth_Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

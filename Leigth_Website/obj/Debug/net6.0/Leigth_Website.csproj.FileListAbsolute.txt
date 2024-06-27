@@ -1,0 +1,74 @@
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\appsettings.json
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.staticwebassets.runtime.json
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.exe
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.deps.json
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.runtimeconfig.json
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.dll
+D:\Projects\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.pdb
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.csproj.AssemblyReference.cache
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.AssemblyInfoInputs.cache
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.AssemblyInfo.cs
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.csproj.CoreCompileInputs.cache
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\scopedcss\bundle\Leigth_Website.styles.css
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.dll
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\refint\Leigth_Website.dll
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.pdb
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.genruntimeconfig.cache
+D:\Projects\Leigth_Website\Leigth_Website\obj\Debug\net6.0\ref\Leigth_Website.dll
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\appsettings.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.staticwebassets.runtime.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.exe
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.deps.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.runtimeconfig.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.dll
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.pdb
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.AssemblyInfoInputs.cache
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.AssemblyInfo.cs
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.csproj.CoreCompileInputs.cache
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.Leigth_Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.build.Leigth_Website.props
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leigth_Website.props
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leigth_Website.props
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\scopedcss\bundle\Leigth_Website.styles.css
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.dll
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\refint\Leigth_Website.dll
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.pdb
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.genruntimeconfig.cache
+C:\Projects\Projects_FromLap\Leigth_Website\Leigth_Website\obj\Debug\net6.0\ref\Leigth_Website.dll
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\appsettings.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.staticwebassets.runtime.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.exe
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.deps.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.dll
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\bin\Debug\net6.0\Leigth_Website.pdb
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.Leigth_Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.build.Leigth_Website.props
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leigth_Website.props
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leigth_Website.props
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\scopedcss\bundle\Leigth_Website.styles.css
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.dll
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\refint\Leigth_Website.dll
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.pdb
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\Leigth_Website.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\Leigth Live Github\Leigth-Website\Leigth_Website\obj\Debug\net6.0\ref\Leigth_Website.dll

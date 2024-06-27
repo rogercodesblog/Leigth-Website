@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Leigth_Website/1.0.0": {
+        "runtime": {
+          "Leigth_Website.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leigth_Website/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
