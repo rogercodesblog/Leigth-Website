@@ -1,8 +1,16 @@
+<p align="left">
+Build for the popular streamer and content creator "Leigth", this website was build with the objective of achieving a stronger online presence.
+</p>
+
 > [!IMPORTANT]  
-> In order for the contact form to function properly, you must add your credentials in appsettings.json
+> In order for the contact form to function properly, you must add your credentials in appsettings.json for the SMTP service, I personally recommend to use outlook/hotmail or gmail
 
 <p align="center">
     <img src="/Screenshots/0-SMTP-Settings.png">
+</p>
+
+<p align="left">
+
 </p>
 
 <p align="center">
