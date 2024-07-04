@@ -1,3 +1,4 @@
+<h1 align="left">Leigth Website</h1>
 <p align="left">
 Build for the popular streamer and content creator "Leigth", this website was build with the objective of achieving a stronger online presence.
 </p>
@@ -55,7 +56,6 @@ This contact form has validations in order to prevent the submission of incomple
 <p align="center">
     <img src="/Screenshots/6-Contact-Validations.png">
 </p>
-
 
 <p align="center">
     <img src="/Screenshots/7-Contact-Correct.png/">
